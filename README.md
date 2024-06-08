@@ -1,3 +1,2 @@
 # Solana-wallet-generator
-> [!IMPORTANT]
-> Moved to new account here: https://github.com/cablesalty/Solana-wallet-generator
+A simple solana wallet generator written in Python
